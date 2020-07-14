@@ -5,3 +5,7 @@
 * [Node.Js]
 * [Express]
 * [Mongoose Database]
+
+## How to start app
+- In cmd start mongoDB server at 27017 by command ######mongod
+- Then, start Applications server by ######node app.js
