@@ -12,9 +12,9 @@
 
 ## How to start app
 - In cmd start mongoDB server at 27017 by command:
-* mongod
+cmd: mongod
 - Then, start Applications server by:
-* node app.js
+cmd: node app.js
 
 And after that type local host:3000 and your app is running in your machine
 
